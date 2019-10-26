@@ -1,6 +1,3 @@
-# Python bytecode 3.7 (3394)
-# Embedded file name: C:\Users\Valimer\Desktop\Bomber.py
-# Size of source mod 2**32: 27456 bytes
 import requests, urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 from threading import Thread
